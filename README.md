@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josh-uvi-tw
+- 👋 Hi, I’m Josh Uvi
 - 👀 I’m interested in web, mobile, AL & ML development
 - 🌱 I’m currently learning mobile development
 - 👨🏾‍💻 Can reach me on [twitter](https://twitter.com/Uvi_jr)
