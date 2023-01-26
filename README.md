@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh Uvi
-- 👀 I’m interested in web, mobile, AL & ML development
-- 🌱 I’m currently learning mobile development
+- 👀 I’m interested in web, mobile, AI & ML development
+- 🌱 I’m currently learning data and AI
 - 👨🏾‍💻 Can reach me on [twitter](https://twitter.com/Uvi_jr)
 
 <!---
