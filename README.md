@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Josh Uvi
 - 👀 I’m interested in web, mobile, AI & ML development
 - 🌱 I’m currently learning data and AI
-- 👨🏾‍💻 Can reach me on [twitter](https://twitter.com/Uvi_jr)
+
 
 <!---
 josh-uvi-tw/josh-uvi-tw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
